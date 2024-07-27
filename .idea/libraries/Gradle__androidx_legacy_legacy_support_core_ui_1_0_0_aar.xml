@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/b1c3603cff7a34e8a186034802d02aea/transformed/legacy-support-core-ui-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/4dc57cb65d135eda5ed8bed576393446/transformed/legacy-support-core-ui-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/4dc57cb65d135eda5ed8bed576393446/transformed/legacy-support-core-ui-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/transforms-3/4dc57cb65d135eda5ed8bed576393446/transformed/legacy-support-core-ui-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/4dc57cb65d135eda5ed8bed576393446/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/modules-2/files-2.1/androidx.legacy/legacy-support-core-ui/1.0.0/f6044eaebe354c778f1f147ddb9e92a3f1e22fc7/legacy-support-core-ui-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

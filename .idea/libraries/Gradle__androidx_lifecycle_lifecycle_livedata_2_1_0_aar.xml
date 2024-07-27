@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/4b2c20d8c86f11c56969d57d92bc0c8c/transformed/lifecycle-livedata-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/8efa807d7f52cbc4df9ada57766e11a6/transformed/lifecycle-livedata-2.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/transforms-3/8efa807d7f52cbc4df9ada57766e11a6/transformed/lifecycle-livedata-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/8efa807d7f52cbc4df9ada57766e11a6/transformed/lifecycle-livedata-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/8efa807d7f52cbc4df9ada57766e11a6/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.1.0/9849dd6833f7e999169e4f9d48949cc92bf58b50/lifecycle-livedata-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

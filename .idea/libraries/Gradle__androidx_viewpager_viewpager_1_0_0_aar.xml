@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.viewpager:viewpager:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/ee89c1f555ae1a189919a5c57cb77c5b/transformed/viewpager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/8b933aaaa4cc9e25fc42cda0772288aa/transformed/viewpager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/7bb7a3460a03c068890d4a3166057554/transformed/viewpager-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/transforms-3/7bb7a3460a03c068890d4a3166057554/transformed/viewpager-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/7bb7a3460a03c068890d4a3166057554/transformed/viewpager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/7bb7a3460a03c068890d4a3166057554/transformed/viewpager-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

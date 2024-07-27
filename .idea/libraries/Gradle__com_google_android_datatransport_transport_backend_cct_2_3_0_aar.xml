@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.datatransport:transport-backend-cct:2.3.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/88c09ff07393687872dea3c5cd769271/transformed/jetified-transport-backend-cct-2.3.0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/d5f8e11a0eeeb0f8eb6c5ebdd4836f2d/transformed/jetified-transport-backend-cct-2.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/d5f8e11a0eeeb0f8eb6c5ebdd4836f2d/transformed/jetified-transport-backend-cct-2.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/d5f8e11a0eeeb0f8eb6c5ebdd4836f2d/transformed/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/transforms-3/d5f8e11a0eeeb0f8eb6c5ebdd4836f2d/transformed/jetified-transport-backend-cct-2.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/modules-2/files-2.1/com.google.android.datatransport/transport-backend-cct/2.3.0/ca2b7b73a1022b9f8e7e9f74e5cef8edee55db4/transport-backend-cct-2.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

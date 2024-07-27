@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.loader:loader:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/c429e1ff41931e857d201fcd5193e04d/transformed/loader-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/41997588268deb65e67f3a0079772ffc/transformed/loader-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/2ce6a858c5999ca43724234e85ed8932/transformed/loader-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/2ce6a858c5999ca43724234e85ed8932/transformed/loader-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/2ce6a858c5999ca43724234e85ed8932/transformed/loader-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/transforms-3/2ce6a858c5999ca43724234e85ed8932/transformed/loader-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/modules-2/files-2.1/androidx.loader/loader/1.0.0/b9ef587f3e46c7fe5b00264989764e43ff45cada/loader-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

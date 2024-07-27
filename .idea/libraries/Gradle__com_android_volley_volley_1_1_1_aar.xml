@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.volley:volley:1.1.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/77f17139827ee66399c7c9077762c176/transformed/jetified-volley-1.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/caches/transforms-3/e32a55e81a993b72891c2f0c7f7d56fc/transformed/jetified-volley-1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/e32a55e81a993b72891c2f0c7f7d56fc/transformed/jetified-volley-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/e32a55e81a993b72891c2f0c7f7d56fc/transformed/jetified-volley-1.1.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/d8b3eb5d0425eb55b69d80e915cb41e4/transformed/jetified-volley-1.1.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/d8b3eb5d0425eb55b69d80e915cb41e4/transformed/jetified-volley-1.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/caches/transforms-3/d8b3eb5d0425eb55b69d80e915cb41e4/transformed/jetified-volley-1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/7c29499abe8b0920be3735d1e777c3e5/transformed/jetified-volley-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/c6821019f5ca37986f207453182787d8/transformed/jetified-volley-1.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/transforms-3/c6821019f5ca37986f207453182787d8/transformed/jetified-volley-1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/c6821019f5ca37986f207453182787d8/transformed/jetified-volley-1.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/modules-2/files-2.1/com.android.volley/volley/1.1.1/4dab8aeeac8192fb8b6d7f9186b7357d94808049/volley-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/modules-2/files-2.1/com.android.volley/volley/1.1.1/3fb00d0da53c4e9f35a519da6e22bc2de7463816/volley-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

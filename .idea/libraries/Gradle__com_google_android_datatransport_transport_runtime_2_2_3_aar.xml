@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.datatransport:transport-runtime:2.2.3@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/b6dfe07574d823653c219a4b94753681/transformed/jetified-transport-runtime-2.2.3/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/09aee9e7b06c289f2222825354abc4f8/transformed/jetified-transport-runtime-2.2.3/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/09aee9e7b06c289f2222825354abc4f8/transformed/jetified-transport-runtime-2.2.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/transforms-3/09aee9e7b06c289f2222825354abc4f8/transformed/jetified-transport-runtime-2.2.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/09aee9e7b06c289f2222825354abc4f8/transformed/jetified-transport-runtime-2.2.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/2.2.3/98d7e688682f0a29533d77fc69ba2a642e195620/transport-runtime-2.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

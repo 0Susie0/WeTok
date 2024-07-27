@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tasks:17.0.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/50741ab7cb6258b7edd1c876d3b118fd/transformed/jetified-play-services-tasks-17.0.2/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/9a5b8289cfc3d005f978a950a30a382f/transformed/jetified-play-services-tasks-17.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/transforms-3/9a5b8289cfc3d005f978a950a30a382f/transformed/jetified-play-services-tasks-17.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/9a5b8289cfc3d005f978a950a30a382f/transformed/jetified-play-services-tasks-17.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/9a5b8289cfc3d005f978a950a30a382f/transformed/jetified-play-services-tasks-17.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/modules-2/files-2.1/com.google.android.gms/play-services-tasks/17.0.2/351bbec24656496690ebe09be7cdac31549a54fc/play-services-tasks-17.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

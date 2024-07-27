@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-service:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/6d9269d55b84a943467d7f9361ba8217/transformed/jetified-lifecycle-service-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/a85ff56eb490fa434311fc9e1ab0e8e6/transformed/jetified-lifecycle-service-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/a85ff56eb490fa434311fc9e1ab0e8e6/transformed/jetified-lifecycle-service-2.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/transforms-3/a85ff56eb490fa434311fc9e1ab0e8e6/transformed/jetified-lifecycle-service-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/a85ff56eb490fa434311fc9e1ab0e8e6/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-service/2.1.0/8fea0db3aaed284d86f63be3977c01b156585cb2/lifecycle-service-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

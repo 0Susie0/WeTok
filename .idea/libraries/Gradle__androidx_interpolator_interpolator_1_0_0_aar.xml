@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.interpolator:interpolator:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/53f8c292997d11bf85b9dafda1f96a52/transformed/interpolator-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/7fa4dd87b288a2e46b5024a0fbfe932d/transformed/interpolator-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/ef9cf4d0b361bf6876287875671afa57/transformed/interpolator-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/transforms-3/ef9cf4d0b361bf6876287875671afa57/transformed/interpolator-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/ef9cf4d0b361bf6876287875671afa57/transformed/interpolator-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/ef9cf4d0b361bf6876287875671afa57/transformed/interpolator-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/modules-2/files-2.1/androidx.interpolator/interpolator/1.0.0/fefd5e3cbc479b6b4a9532d05688a1e659e8d3d2/interpolator-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-location:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/b2434f153e164249138663f51f1137e9/transformed/jetified-play-services-location-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/5d6393403208da60d8d2197843d1ce79/transformed/jetified-play-services-location-17.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../WeTok/caches/transforms-3/5d6393403208da60d8d2197843d1ce79/transformed/jetified-play-services-location-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/5d6393403208da60d8d2197843d1ce79/transformed/jetified-play-services-location-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../WeTok/caches/transforms-3/5d6393403208da60d8d2197843d1ce79/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
