@@ -1,0 +1,36 @@
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely our
+  own work, with the following exceptions:
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Tokenizer and Parser part is based on lab07's file, but with our own explaination of token and method.
+    url: https://gitlab.cecs.anu.edu.au/u1064702/comp2100-6442-2021.s2/-/tree/master/Lab_07_Tok_Parser
+    licence: fair use
+
+  - comment: Several methods of AVLTree.java refers to the code on the website.
+    url: https://quguai.cn/archives/j-a-v-a-di-ceng-shi-xian-a-v-l-ping-heng-er-cha-shu
+    licence: fair use
+  
+  - comment: sortByValue method of Rank.java refers to the code on the website.
+    url: https://www.geeksforgeeks.org/sorting-a-hashmap-according-to-values/
+    licence: fair use
+
+  - comment: RegisterNextActivity update username in firebase
+    url: https://firebase.google.com/docs/auth/android/manage-users
+    licence: fair use
+
+# for each member, write your name and uid here
+# remove any empty "name+uid" entries
+members:
+  - name: Xinyue Hu
+    uid: u7151386
+  - name: Yuxin Hong
+    uid: u6684233
+  - name: Xinyu Kang
+    uid: u6120911
+  - name: Zhaoting Jiang
+    uid: u6111569
